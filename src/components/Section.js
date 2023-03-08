@@ -13,7 +13,7 @@ function Section () {
             <div className='relative px-6 lg:px-16'>
             <section class="container px-0 md:flex md:items-center md:space-x-16 bg-white bg-opacity-5 my-44">		
 			<div class="relative border-l-4 border-red-800 pl-6 py-12 md:py-0">
-				<h2 class="text-6xl font-bold mb-6"><strong>Yall get this for FREE in Canada?</strong></h2>
+				<h2 class="text-6xl font-bold mb-6"><strong>"Yall get this for FREE in Canada?"</strong></h2>
 				<p>bruh...</p>
 			</div>
 			<div class="relative w-full h-screen rounded-lg mt-[10rem]"> 
@@ -33,8 +33,17 @@ function Section () {
                 </Parallax>
 			</div>	
 			<div class="relative border-r-4 border-red-800 py-12 md:py-0">
-				<h2 class="text-6xl font-bold mb-6 "><strong>Him Kardashian's Himothy Turner & Him Beam</strong></h2>
-				<p className=''>Pop your images in a container with overflow hidden, size them a little larger than the container and set data-speed to auto. GSAP does the rest.</p>
+				<h2 class="text-6xl font-bold mb-6 "><strong>Him Kardashian Himothy Turner<br></br>& Him Beam</strong></h2>
+				<p className='text-right mr-10 mt-20'>If I can stop one heart from breaking,
+                    <br></br>I shall not live in vain;
+                    <br></br>If I can ease one life the aching,
+                    <br></br>Or cool one pain,
+                    <br></br> Or help one fainting robin
+                    <br></br> Unto his nest again,
+                    <br></br> I shall not live in vain.
+                    <br></br>
+                    <br></br>- ChatGPT
+                    </p>
 			</div>		
 		</section>
         </div>
